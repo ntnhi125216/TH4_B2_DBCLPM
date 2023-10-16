@@ -1,0 +1,11 @@
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\BUS.dll
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\BUS.pdb
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\DAL.dll
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\DTO.dll
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\DAL.pdb
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\bin\Debug\DTO.pdb
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\obj\Debug\BUS.dll
+D:\DA1_QLBH_Ngothinhi\DA1_QLBH_Ngothinhi\BUS\obj\Debug\BUS.pdb
